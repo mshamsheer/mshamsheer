@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 
 I am a **Computer Science Fresher** with strong skills in **DevOps, Cloud Technologies, and Web Development**.  
-I have hands-on experience with **Docker, Kubernetes, AWS, GitHub Actions, and System Administration**.  
+I have hands-on experience with **Docker, Kubernetes, AWS, GitHub Actions**.  
 Along with DevOps, I also have solid knowledge of **HTML, CSS, and JavaScript**, and I am familiar with the **MERN stack**.  
 
 - 🤝 Open to collaborate on **DevOps & Cloud Projects**  
@@ -26,9 +26,6 @@ Along with DevOps, I also have solid knowledge of **HTML, CSS, and JavaScript**,
 
 **Databases & Monitoring**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Frontend (Strong Skills)**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,28 +42,28 @@ Along with DevOps, I also have solid knowledge of **HTML, CSS, and JavaScript**,
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshamsheer&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mshamsheer&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=mshamsheer&theme=onedark)
 
 ---
 
 ## 📈 Activity Graph  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mshamsheer&theme=tokyo-night)
 
 ---
 
 ## 🌐 Connect With Me  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-- 📧 **your_email@example.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohd-shamsheer-webdev/)  
+- 📧 **mshamsheer017@gmail.com**  
 
 ---
 
