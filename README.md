@@ -1,12 +1,13 @@
 # Hello Dosto 👋  
 
-**DevOps Enthusiast | Fresher**  
+**DevOps Enthusiast**  
 
 ---
 
 ## 🚀 About Me  
 
-I am a **Computer Science Fresher** with strong skills in **DevOps, Cloud Technologies, and Web Development**.  
+Hi, I'm Shamsheer! 🚀  
+I'm a passionate **DevOps & Cloud Enthusiast** with a strong foundation in **Automation, and Cloud Technologies**.  
 I have hands-on experience with **Docker, Kubernetes, AWS, GitHub Actions**.  
 Along with DevOps, I also have solid knowledge of **HTML, CSS, and JavaScript**, and I am familiar with the **MERN stack**.  
 
@@ -27,7 +28,7 @@ Along with DevOps, I also have solid knowledge of **HTML, CSS, and JavaScript**,
 **Databases & Monitoring**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend (Strong Skills)**  
+**Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
